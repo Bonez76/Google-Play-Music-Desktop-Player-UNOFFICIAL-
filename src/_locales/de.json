@@ -6,8 +6,8 @@
   "button-test-ok": "OK",
   "button-text-close": "Schließen",
   "button-text-dont-tell-me-again": "Sag mir das nicht nochmal",
-  "button-text-lets-do-this": "Lass uns starten!!",
-  "button-text-lets-go": "Los geht's!!",
+  "button-text-lets-do-this": "Lass uns anfangen",
+  "button-text-lets-go": "Los geht's",
   "button-text-not-now": "Nicht jetzt",
 
   "label-about": "Über",
@@ -29,13 +29,13 @@
   "lastfm-login-button-text": "Bei Last.FM anmelden",
   "lastfm-login-error": "Du hast den Autorisierungsvorgang verlassen. Wenn das ein ein Fehler war, versuche es nochmal",
   "lastfm-login-not-authorized": "Nicht autorisiert",
-  "lastfm-logout-button-text": "Von Last.FM abmelden",
+  "lastfm-logout-button-text": "Bei Last.FM abmelden",
 
-  "lyrics-failed-message": "Entschuldige, aber wir konnten keinen Liedtext finden",
-  "lyrics-loading-message": "Lade Liedtext...",
-  "lyrics-no-song-message": "Aktuell spielt kein Titel",
+  "lyrics-failed-message": "Kein Liedtext gefunden",
+  "lyrics-loading-message": "Lade Liedtext",
+  "lyrics-no-song-message": "Es wird gerade kein Lied wiedergegeben",
 
-  "message-pausing-after-song": "Pausieren nach diesem Titel.",
+  "message-pausing-after-song": "Pausieren nach diesem Titel",
   "message-pausing-after-song-button": "Nicht nach diesem Titel pausieren",
   "message-uncaught-error": "Es gab einen Fehler innerhalb von GPMDP.",
   "message-uncaught-error-button": "Klicke um den Fehler bei GitHub zu melden",
@@ -44,11 +44,11 @@
   "modal-confirmTray-content": "Das Hauptfenster zu schließen (was du gerade versucht hast) wird den Player in den Infobereich minimieren. Um dieses Verhalten zu ändern gehe in die \"Desktop-Einstellungen\".",
   "modal-confirmUpdate-title": "Aktualisierung verfügbar",
   "modal-confirmUpdate-content": "Woo hoo, es sieht so aus, als gäbe es eine Aktualisierung für Google Play Music Desktop Player.  Diese Aktualisierung bringt neue Extras, Fehlerbehebungen und Weiteres.  Für das beste Erlebnis empfehlen wir so schnell wie möglich zu aktualisieren. <br/>Wir hoffen, dir gefällt diese Aktualisierung!",
-  "modal-confirmUninstall-title": "Hier ist das Problem...",
-  "modal-confirmUninstall-content": "Wir haben gerade herausgefunden, dass noch eine alte Version von GPMDP installiert ist.  Wenn du gerade aktualisiert hast, ist es normal.  Wir versuchen nun die alte Version zu löschen.  Dies \"könnte\" Administrationsrechte benötigen. Bitte gib uns diese, damit wir aufräumen können.",
+  "modal-confirmUninstall-title": "Hier ist das Problem",
+  "modal-confirmUninstall-content": "Wir haben gerade herausgefunden, dass noch eine alte Version von GPMDP installiert ist.  Wenn du gerade aktualisiert hast, ist es normal.  Es wird nun versucht die alte Version zu löschen.  Dies \"könnte\" Administrationsrechte benötigen. Bitte gewähre diese, damit wir aufräumen können.",
   "modal-goToURL-title": "Gib die Google Play Music URL um dort hin zu gehen:",
   "modal-welcome-title": "Willkommen zur Version",
-  "modal-welcome-content": "Wir hoffen, dir gefällt diese Aktualisierung!",
+  "modal-welcome-content": "Wir hoffen, dir gefällt diese Aktualisierung",
 
   "playback-label-next-track": "Nächster Titel",
   "playback-label-play-pause": "Abspielen / Pausieren",
@@ -66,29 +66,31 @@
   "settings-option-custom-theme-dark": "Dunkel",
   "settings-option-custom-theme-light": "Hell",
 
-  "settings-option-enable-api": "Aktiviere die Playback API",
+  "settings-option-enable-api": "Aktiviere die Playback-API",
   "settings-option-enable-api-details": "Dies erlaubt es anderen Applikationen mit GPMDP zu interagieren",
-  "settings-option-enable-system-borders": "Benutze Fensterrahmenthema des Systems",
+  "settings-option-enable-system-borders": "Benutze Farbeinstellungen des Systems",
   "settings-option-enable-system-borders-details": "Erfordert einen Neustart",
   "settings-option-enable-voice": "Aktiviere Sprachsteuerung",
-  "settings-option-enable-voice-details": "Sprachsteuerung für GPMDP, dies ist experimentell",
+  "settings-option-enable-voice-details": "Sprachsteuerung für GPMDP (experimentell)",
 
   "settings-option-hotkey-explanation": "Die grundlegenden Medientasten werden dennoch funktionieren.  Diese Einstellungen kommen zu den Standardeinstellungen hinzu.",
   "settings-option-hotkey-explanation-2": "Zum Zurücksetzen der Tastenkombination benutze die <i>\"Escape\"</i>-Taste.",
 
   "settings-option-min-to-tray": "In den Infobereich minimieren",
 
+  "settings-option-auto-launch": "Automatisch beim Start von Windows laden",
+
   "settings-option-mini-always-show": "Immer Titelinformationen anzeigen",
-  "settings-option-mini-ontop": "Immer oben",
+  "settings-option-mini-ontop": "Immer im Vordergrund",
 
   "title-color-picker": "Farbauswahl",
   "title-settings": "Einstellungen",
   "title-settings-audio": "Audio",
   "title-settings-general": "Allgemein",
-  "title-settings-hotkeys": "Hotkeys",
+  "title-settings-hotkeys": "Tastenkombinationen",
   "title-settings-lastfm": "LastFM",
-  "title-settings-mini": "Mini Player",
+  "title-settings-mini": "Mini-Player",
 
-  "tray-label-audio-device": "Audiogerät",
+  "tray-label-audio-device": "Wiedergabegerät",
   "tray-label-show": "Anzeigen"
 }
